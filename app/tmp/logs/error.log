@@ -1,0 +1,1981 @@
+2018-07-02 11:34:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:34:19 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:34:20 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:34:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:34:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:34:20 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:34:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:34:20 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:34:20 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:34:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:34:20 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:34:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:34:21 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:34:21 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:34:21 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:34:21 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:34:21 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:34:21 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:36:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:36:16 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:36:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:36:17 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:36:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:36:17 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:36:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:36:17 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:36:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:36:17 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:36:17 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:36:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:36:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:36:17 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:36:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:36:18 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:36:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:36:18 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:36:18 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:36:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:36:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:36:18 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:36:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 11:36:18 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:06:06 Error: [MissingViewException] View file "Posts/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Posts/index.ctp',
+)
+Request URL: /tuto_cakephp/posts/index
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/lib/Cake/View/View.php(470): View->_getViewFileName('Posts/index')
+#1 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#2 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#6 {main}
+2018-07-02 12:06:06 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:06:06 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:06:35 Error: [MissingViewException] View file "Posts/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Posts/index.ctp',
+)
+Request URL: /tuto_cakephp/posts/index
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/lib/Cake/View/View.php(470): View->_getViewFileName('Posts/index')
+#1 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#2 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#6 {main}
+2018-07-02 12:06:35 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:06:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:06:36 Error: [MissingViewException] View file "Posts/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Posts/index.ctp',
+)
+Request URL: /tuto_cakephp/posts/index
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/lib/Cake/View/View.php(470): View->_getViewFileName('Posts/index')
+#1 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#2 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#6 {main}
+2018-07-02 12:06:36 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:06:36 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:06:36 Error: [MissingViewException] View file "Posts/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Posts/index.ctp',
+)
+Request URL: /tuto_cakephp/posts/index
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/lib/Cake/View/View.php(470): View->_getViewFileName('Posts/index')
+#1 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#2 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#6 {main}
+2018-07-02 12:06:36 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:06:36 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:06:36 Error: [MissingViewException] View file "Posts/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Posts/index.ctp',
+)
+Request URL: /tuto_cakephp/posts/index
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/lib/Cake/View/View.php(470): View->_getViewFileName('Posts/index')
+#1 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#2 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#6 {main}
+2018-07-02 12:06:36 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:06:36 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:06:37 Error: [MissingViewException] View file "Posts/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Posts/index.ctp',
+)
+Request URL: /tuto_cakephp/posts/index
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/lib/Cake/View/View.php(470): View->_getViewFileName('Posts/index')
+#1 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#2 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#6 {main}
+2018-07-02 12:06:37 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:06:37 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:09:25 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:09:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:09:30 Error: [MissingActionException] Action PostsController::view() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'view',
+)
+Request URL: /tuto_cakephp/posts/view/2
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#4 {main}
+2018-07-02 12:09:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:09:30 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:25:38 Error: [ParseError] syntax error, unexpected 'throw' (T_THROW)
+Request URL: /tuto_cakephp/posts/index
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#7 {main}
+2018-07-02 12:25:38 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:25:38 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:26:35 Error: [ParseError] syntax error, unexpected 'throw' (T_THROW)
+Request URL: /tuto_cakephp/posts/index
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#7 {main}
+2018-07-02 12:26:35 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:26:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:26:36 Error: [ParseError] syntax error, unexpected 'throw' (T_THROW)
+Request URL: /tuto_cakephp/posts/index
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#7 {main}
+2018-07-02 12:26:36 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:26:36 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:28:10 Error: [ParseError] syntax error, unexpected 'throw' (T_THROW)
+Request URL: /tuto_cakephp/posts/index
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#7 {main}
+2018-07-02 12:28:10 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:28:10 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:29:03 Error: [ParseError] syntax error, unexpected 'class' (T_CLASS), expecting function (T_FUNCTION)
+Request URL: /tuto_cakephp/posts/index
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#7 {main}
+2018-07-02 12:29:03 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:29:03 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:29:04 Error: [ParseError] syntax error, unexpected 'class' (T_CLASS), expecting function (T_FUNCTION)
+Request URL: /tuto_cakephp/posts/index
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#7 {main}
+2018-07-02 12:29:04 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:29:04 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:29:04 Error: [ParseError] syntax error, unexpected 'class' (T_CLASS), expecting function (T_FUNCTION)
+Request URL: /tuto_cakephp/posts/index
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#7 {main}
+2018-07-02 12:29:04 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:29:04 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:29:04 Error: [ParseError] syntax error, unexpected 'class' (T_CLASS), expecting function (T_FUNCTION)
+Request URL: /tuto_cakephp/posts/index
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#7 {main}
+2018-07-02 12:29:04 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:29:04 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:29:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:29:31 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:29:48 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:29:48 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:29:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:29:49 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:29:49 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:29:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:30:01 Error: [ParseError] syntax error, unexpected 'throw' (T_THROW)
+Request URL: /tuto_cakephp/posts/index
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#7 {main}
+2018-07-02 12:30:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:30:01 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:30:24 Error: [ParseError] syntax error, unexpected 'throw' (T_THROW)
+Request URL: /tuto_cakephp/posts/index
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#7 {main}
+2018-07-02 12:30:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:30:24 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:30:25 Error: [ParseError] syntax error, unexpected 'throw' (T_THROW)
+Request URL: /tuto_cakephp/posts/index
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#7 {main}
+2018-07-02 12:30:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:30:25 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:30:25 Error: [ParseError] syntax error, unexpected 'throw' (T_THROW)
+Request URL: /tuto_cakephp/posts/index
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#7 {main}
+2018-07-02 12:30:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:30:25 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:30:32 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:30:32 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:31:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:31:24 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:31:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:31:25 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:31:32 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:31:32 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:33:19 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:33:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:33:21 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-02 12:33:21 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 11:22:22 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 11:22:22 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 11:39:49 Error: [ParseError] syntax error, unexpected ';', expecting ')'
+Request URL: /tuto_cakephp/posts/index
+Stack Trace:
+#0 [internal function]: App::load('Post')
+#1 [internal function]: spl_autoload_call('Post')
+#2 /var/www/html/tuto_cakephp/lib/Cake/Utility/ClassRegistry.php(146): class_exists('Post')
+#3 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(741): ClassRegistry::init('Post')
+#4 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(368): Controller->loadModel('Post')
+#5 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(406): Controller->__isset('Post')
+#6 /var/www/html/tuto_cakephp/app/Controller/PostsController.php(9): Controller->__get('Post')
+#7 [internal function]: PostsController->index()
+#8 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#13 {main}
+2018-07-03 11:39:49 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 11:39:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 11:40:23 Error: [ParseError] syntax error, unexpected ';', expecting ')'
+Request URL: /tuto_cakephp/posts/index
+Stack Trace:
+#0 [internal function]: App::load('Post')
+#1 [internal function]: spl_autoload_call('Post')
+#2 /var/www/html/tuto_cakephp/lib/Cake/Utility/ClassRegistry.php(146): class_exists('Post')
+#3 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(741): ClassRegistry::init('Post')
+#4 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(368): Controller->loadModel('Post')
+#5 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(406): Controller->__isset('Post')
+#6 /var/www/html/tuto_cakephp/app/Controller/PostsController.php(9): Controller->__get('Post')
+#7 [internal function]: PostsController->index()
+#8 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#13 {main}
+2018-07-03 11:40:23 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 11:40:23 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 11:40:24 Error: [ParseError] syntax error, unexpected ';', expecting ')'
+Request URL: /tuto_cakephp/posts/index
+Stack Trace:
+#0 [internal function]: App::load('Post')
+#1 [internal function]: spl_autoload_call('Post')
+#2 /var/www/html/tuto_cakephp/lib/Cake/Utility/ClassRegistry.php(146): class_exists('Post')
+#3 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(741): ClassRegistry::init('Post')
+#4 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(368): Controller->loadModel('Post')
+#5 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(406): Controller->__isset('Post')
+#6 /var/www/html/tuto_cakephp/app/Controller/PostsController.php(9): Controller->__get('Post')
+#7 [internal function]: PostsController->index()
+#8 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#13 {main}
+2018-07-03 11:40:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 11:40:24 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 11:40:24 Error: [ParseError] syntax error, unexpected ';', expecting ')'
+Request URL: /tuto_cakephp/posts/index
+Stack Trace:
+#0 [internal function]: App::load('Post')
+#1 [internal function]: spl_autoload_call('Post')
+#2 /var/www/html/tuto_cakephp/lib/Cake/Utility/ClassRegistry.php(146): class_exists('Post')
+#3 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(741): ClassRegistry::init('Post')
+#4 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(368): Controller->loadModel('Post')
+#5 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(406): Controller->__isset('Post')
+#6 /var/www/html/tuto_cakephp/app/Controller/PostsController.php(9): Controller->__get('Post')
+#7 [internal function]: PostsController->index()
+#8 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#13 {main}
+2018-07-03 11:40:24 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 11:40:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 11:40:24 Error: [ParseError] syntax error, unexpected ';', expecting ')'
+Request URL: /tuto_cakephp/posts/index
+Stack Trace:
+#0 [internal function]: App::load('Post')
+#1 [internal function]: spl_autoload_call('Post')
+#2 /var/www/html/tuto_cakephp/lib/Cake/Utility/ClassRegistry.php(146): class_exists('Post')
+#3 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(741): ClassRegistry::init('Post')
+#4 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(368): Controller->loadModel('Post')
+#5 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(406): Controller->__isset('Post')
+#6 /var/www/html/tuto_cakephp/app/Controller/PostsController.php(9): Controller->__get('Post')
+#7 [internal function]: PostsController->index()
+#8 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#13 {main}
+2018-07-03 11:40:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 11:40:24 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 11:40:25 Error: [ParseError] syntax error, unexpected ';', expecting ')'
+Request URL: /tuto_cakephp/posts/index
+Stack Trace:
+#0 [internal function]: App::load('Post')
+#1 [internal function]: spl_autoload_call('Post')
+#2 /var/www/html/tuto_cakephp/lib/Cake/Utility/ClassRegistry.php(146): class_exists('Post')
+#3 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(741): ClassRegistry::init('Post')
+#4 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(368): Controller->loadModel('Post')
+#5 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(406): Controller->__isset('Post')
+#6 /var/www/html/tuto_cakephp/app/Controller/PostsController.php(9): Controller->__get('Post')
+#7 [internal function]: PostsController->index()
+#8 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#13 {main}
+2018-07-03 11:40:25 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 11:40:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 11:40:25 Error: [ParseError] syntax error, unexpected ';', expecting ')'
+Request URL: /tuto_cakephp/posts/index
+Stack Trace:
+#0 [internal function]: App::load('Post')
+#1 [internal function]: spl_autoload_call('Post')
+#2 /var/www/html/tuto_cakephp/lib/Cake/Utility/ClassRegistry.php(146): class_exists('Post')
+#3 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(741): ClassRegistry::init('Post')
+#4 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(368): Controller->loadModel('Post')
+#5 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(406): Controller->__isset('Post')
+#6 /var/www/html/tuto_cakephp/app/Controller/PostsController.php(9): Controller->__get('Post')
+#7 [internal function]: PostsController->index()
+#8 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#13 {main}
+2018-07-03 11:40:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 11:40:25 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 11:42:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 11:42:51 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 11:43:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 11:43:29 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 11:43:34 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 11:43:34 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 11:43:38 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 11:43:38 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 11:45:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 11:45:50 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 12:31:34 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 12:31:34 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 12:32:18 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 12:32:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 12:32:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 12:32:19 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 12:32:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 12:32:19 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 12:32:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 12:32:50 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 12:32:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 12:32:51 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 12:32:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 12:32:51 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 12:33:37 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 12:33:37 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 12:34:03 Error: [NotFoundException] Invalid Post
+Request URL: /tuto_cakephp/posts/edit
+Stack Trace:
+#0 [internal function]: PostsController->edit()
+#1 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#6 {main}
+2018-07-03 12:34:03 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 12:34:03 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 12:34:38 Error: [NotFoundException] Invalid Post
+Request URL: /tuto_cakephp/posts/edit
+Stack Trace:
+#0 [internal function]: PostsController->edit()
+#1 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#6 {main}
+2018-07-03 12:34:38 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 12:34:38 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 12:35:20 Error: [NotFoundException] Invalid Post
+Request URL: /tuto_cakephp/posts/edit
+Stack Trace:
+#0 [internal function]: PostsController->edit()
+#1 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#6 {main}
+2018-07-03 12:35:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 12:35:20 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 12:35:28 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 12:35:28 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 12:35:31 Error: [NotFoundException] Invalid Post
+Request URL: /tuto_cakephp/posts/edit
+Stack Trace:
+#0 [internal function]: PostsController->edit()
+#1 /var/www/html/tuto_cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/tuto_cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#6 {main}
+2018-07-03 12:35:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 12:35:31 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 12:35:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 12:35:50 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 12:35:52 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 12:35:52 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 12:36:05 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/img/cake.power.gif
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
+2018-07-03 12:36:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /tuto_cakephp/css/cake.generic.css
+Stack Trace:
+#0 /var/www/html/tuto_cakephp/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/html/tuto_cakephp/index.php(41): require('/var/www/html/t...')
+#2 {main}
