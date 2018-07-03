@@ -4,6 +4,7 @@ class PostsController extends AppController
 {
 	public $helpers = array('Html', 'Form');
 	public $component = array('Flash');
+
 	public function index()
 	{
 		$this->set('posts', $this->Post->find('all'));
@@ -57,6 +58,21 @@ class PostsController extends AppController
 		if(!$this->request->data) {
 			$this->request->data = $post;
 		}
+	}
+
+	public function delete($id)
+	{
+		if($this->request->is('get')) {
+			throw new MethodNotAllowException();
+		}
+
+		if($this->Post->delete($id)) {
+			$this->Flash->Success(__('The post with id %s has been delete', h($id)));
+		} else {
+			$this->Flash->error(__('The post with id %s couldn\'t delete', h($id)));
+		}
+
+		return $this->redirect(array('action' => 'index'));
 	}
 }
 

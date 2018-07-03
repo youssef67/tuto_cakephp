@@ -20,6 +20,11 @@
             ); ?>
         </td>
         <td>
+            <?php echo $this->Form->postLink(
+                'delete',
+                array('action' => 'delete', $post['Post']['id']),
+                array('confirm' => 'are you sure')
+            ); ?>
             <?php echo $this->Html->link(
                 'edit',
                 array('action' => 'edit', $post['Post']['id'])
